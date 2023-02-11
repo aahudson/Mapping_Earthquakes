@@ -1,4 +1,5 @@
 # Mapping_Earthquakes
+[Index Link to Mappint_Earthqakes](https://github.com/aahudson/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html)
 # Purpose
 The purpose of this project was to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.  
 # Approach 
